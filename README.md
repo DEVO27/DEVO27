@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://imgur.com/XYTGRVV.gif)
+![](https://imgur.com/E8hpYfq.gif)
 <!--
 **DEVO27/DEVO27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
