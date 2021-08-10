@@ -9,6 +9,8 @@ My name is Austen and I am a computer science student. Here are some facts about
 ⚡ Work experience:
 - Secutek Group Inc Software Engineer intership [San Antonio]
 
+💬 Reach me by email or LinkedIn! Austen782@gmail.com | https://www.linkedin.com/in/austen-green-ba4427184/
+
 🌱 Interests: 
 - Backend Development
 - AI/ML
